@@ -1,0 +1,10 @@
+NeMo
+
+parts
+ignore
+
+__pycache__
+
+*.mp3
+*.wav
+*.txt
